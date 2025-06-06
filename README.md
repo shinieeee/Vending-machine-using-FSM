@@ -1,1 +1,2 @@
 # Vending-machine-using-FSM
+This project implements a simple vending machine system using the concept of a Finite State Machine (FSM). The vending machine allows users to insert money, select an item, and receive the item based on the inserted amount. The system transitions between predefined states depending on the user inputs and current machine state, ensuring a structured and reliable workflow.
