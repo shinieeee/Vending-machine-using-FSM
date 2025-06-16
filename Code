@@ -17,7 +17,7 @@ int main() {
     while (1) {
         switch (state) {
             case START:
-                printf("\n🛒 Welcome to the Vending Machine!\n");
+                printf("\n🛒 Welcome to the Vending Machine!!\n");
                 state = WAIT_FOR_MONEY;
                 break;
 
