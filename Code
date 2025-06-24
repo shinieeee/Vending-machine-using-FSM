@@ -6,7 +6,7 @@ enum State {
     CHOOSE_ITEM,
     DISPENSE,
     END
-};
+}; 
 
 int main() {
     enum State state = START;
